@@ -1,0 +1,22 @@
+[
+    {
+        "title": "How many minutes are in a full week?",
+        "options": ["10080", "10000", "10240", "10360"],
+        "correctOptionIndex": "0"
+    },
+    {
+        "title": "What company was originally called 'Cadabra'?",
+        "options": ["Google", "Twitter", "SpaceX", "Amazon"],
+        "correctOptionIndex": "3"
+    },
+    {
+        "title": "What is the 4th letter of the Greek alphabet?",
+        "options": ["Alpha", "Omega", "Delta", "Theta"],
+        "correctOptionIndex": "2"
+    },
+    {
+        "title": "In which hall was stand of StoneLab Inc. in MEDICA START-UP PARK?",
+        "options": ["11", "12", "13", "14"],
+        "correctOptionIndex": "1"
+    }
+]
