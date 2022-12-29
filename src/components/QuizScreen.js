@@ -3,6 +3,9 @@ import Question from "./Question.js";
 import QuizResult from "./QuizResult.js";
 
 import React, { useState } from "react";
+// import styled from "styled-components";
+
+// const 
 
 function QuizScreen({retry}) {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
