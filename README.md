@@ -2,7 +2,7 @@
 
 Runs from localhost.
 
-Initially, it should have been trivia app like 'who wants to win million', but I learned late that application should have been more complex.
+Initially, it should have been trivia app like 'who wants to win million', but I learned late that application should have been more complex (misunderstood the notion of trivia).
 
 This app has
 
