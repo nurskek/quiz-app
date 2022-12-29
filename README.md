@@ -14,3 +14,7 @@ in /components:
 
 in data:
 - questions.json (with 4 questions)
+
+room to improve:
+- fix the bug with timer
+- to switch completely to the styled-components
